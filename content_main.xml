@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/app_bar_main"
+    tools:context=".MainActivity">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#2196F3"
+        android:textSize="35dp"
+        android:text="GP"
+        android:id="@+id/gpbtn"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#2196F3"
+        android:textSize="35dp"
+        android:text="Robi"
+        android:id="@+id/robibtn"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#2196F3"
+        android:textSize="35dp"
+        android:text="Airtle"
+        android:id="@+id/airbtn"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#2196F3"
+        android:textSize="35dp"
+        android:text="Teletalk"
+        android:id="@+id/telbtn"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#2196F3"
+        android:textSize="35dp"
+        android:text="Banglalink"
+        android:id="@+id/blbtn"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#2196F3"
+        android:textSize="35dp"
+        android:text="DBBL"
+        android:id="@+id/dbblbtn"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#2196F3"
+        android:textSize="35dp"
+        android:text="Bkash"
+        android:id="@+id/bkashbtn"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#2196F3"
+        android:textSize="35dp"
+        android:text="buy train ticket"
+        android:id="@+id/trainbtn"
+        />
+
+
+</LinearLayout>
