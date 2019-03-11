@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Call Service</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Rokib Ahmed</string>
+    <string name="nav_header_subtitle">rokibahmed.ru.cse@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="trainsms">Note:\n(1) You can buy train ticket through grameenphone sim and Banglalink sim.\n(2) Please first send a sms having the text "TKET" to 1200.\n(3) Then press the Button Below.
+    </string>
+</resources>
